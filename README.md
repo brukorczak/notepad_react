@@ -32,3 +32,7 @@ O Notepad React é uma aplicação simples para criar e gerenciar notas. Ele per
 - Lucide React
 - Date-fns
 - Sonner
+
+> **OBS:_** A aplicação utiliza a API de Reconhecimento de Fala para permitir a gravação de notas por voz. No entanto, é importante observar que a disponibilidade dessa API pode variar dependendo do navegador utilizado. Para verificar se o navegador que você está usando suporta a API de Reconhecimento de Fala, você pode consultar o site [Can I Use](https://caniuse.com/) e pesquisar pela "SpeechRecognitionEvent API".
+
+Clique [aqui](https://caniuse.com/?search=SpeechRecognitionEvent%20API) para verificar a compatibilidade da API em diferentes navegadores.
